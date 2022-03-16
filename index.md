@@ -5,7 +5,7 @@ Esta es una pagina para explicar una problematica con un dataset de la [direcci√
 
 ### Herramientas
 
-Python, pip, pandas, numpy, matplotlib, plotly.
+Python, pip, pandas, numpy, matplotlib, plotly, csvkit.
 
 ### problematica
 Se busca graficar la cantidad de personas con covid que estan entubadas y que tuvieron neumonia en edades de entre 20 y 40 y mas de 40 y comparando entre hombres y mujeres.
