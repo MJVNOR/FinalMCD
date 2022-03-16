@@ -28,4 +28,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ```
-[Link](url) and ![Image](./documentos/fig1.png)
+[Image](./documentos/fig1.png)
