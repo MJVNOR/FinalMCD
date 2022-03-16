@@ -19,4 +19,4 @@ docker build -t datoscovid .
 docker run -it --name ContenedorCovid datoscovid
 ```
 
-[Image](./documentos/fig1.png)
+![Image](./documentos/fig1.png)
