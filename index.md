@@ -16,6 +16,7 @@ docker build -t datoscovid .
 ```
 3.- Generamos un contenedor
 ```
+docker run -it --name ContenedorCovid datoscovid
 ```
 
 [Image](./documentos/fig1.png)
